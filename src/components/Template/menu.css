@@ -1,0 +1,17 @@
+header#main-header{
+    background: #2727;
+    height: 50px;
+}
+header#main-header .headercontent{
+    width: 100%;
+    max-width: 930px;
+    margin:0 auto;
+    padding:0 1px;
+    height: 72px;
+    display: flex;
+    align-items: top;
+    justify-content: space-between;
+}
+header#main-header .headercontent a{
+    font-size: 28px;
+}
